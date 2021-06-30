@@ -6,5 +6,10 @@
         {
             return 5;
         }
+
+        public static double NapraviNeshto()
+        {
+            return 23; 
+        }
     }
 }
