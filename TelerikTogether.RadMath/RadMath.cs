@@ -19,14 +19,14 @@ namespace TelerikTogether.Math
             return 23; 
         }
 
-        public static Point GetArcPoint(double angle, Point center, double radius)
+        public static RadPoint GetArcPoint(double angle, RadPoint center, double radius)
         {
             double angleInRad = angle * RadMath.DegToRadFactor;
 
             double x = center.X + (System.Math.Cos(angleInRad) * radius);
             double y = center.Y + (System.Math.Sin(angleInRad) * radius);
 
-            return new Point(x, y);
+            return new RadPoint(x, y);
         }
     }
 }
