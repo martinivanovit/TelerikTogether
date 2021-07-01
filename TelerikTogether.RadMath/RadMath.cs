@@ -11,7 +11,7 @@ namespace TelerikTogether.Math
 
         public static double DaiPet()
         {
-            return 5;
+            return 15;
         }
 
         public static double NapraviNeshto()
