@@ -10,5 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)RadMath.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RadPoint.cs" />
   </ItemGroup>
 </Project>
