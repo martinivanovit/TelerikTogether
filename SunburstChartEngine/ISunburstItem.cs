@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TelerikTogether.Sunburst
+﻿namespace TelerikTogether.Sunburst
 {
-	public interface ISunburstItem
+    public interface ISunburstItem
 	{
 		SunburstItemCollection Children { get; }
 

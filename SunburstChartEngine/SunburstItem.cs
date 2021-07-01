@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-
-namespace TelerikTogether.Sunburst
+﻿namespace TelerikTogether.Sunburst
 {
-	public class SunburstItem : ISunburstItem
+    public class SunburstItem : ISunburstItem
 	{
 		private SunburstItemCollection children;
 		private object label;

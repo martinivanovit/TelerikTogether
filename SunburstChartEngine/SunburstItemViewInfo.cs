@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TelerikTogether.Sunburst
+﻿namespace TelerikTogether.Sunburst
 {
-	public class SunburstItemViewInfo
+    public class SunburstItemViewInfo
 	{
 		public double StartAngle { get; set; }
 
