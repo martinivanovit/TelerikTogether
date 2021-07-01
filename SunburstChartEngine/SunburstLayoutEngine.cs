@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Sunburst.Shared
+namespace TelerikTogether.Sunburst
 {
 	public class SunburstLayoutEngine
 	{

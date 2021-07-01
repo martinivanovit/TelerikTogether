@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 
-namespace Sunburst.Shared
+namespace TelerikTogether.Sunburst
 {
 	public class SunburstItemCollection : ObservableCollection<ISunburstItem>
 	{

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sunburst.Shared
+namespace TelerikTogether.Sunburst
 {
 	public interface ISunburstItem
 	{
